@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1719239810 source:c:\users\boinsent\documents\c\freddyconsole\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+
